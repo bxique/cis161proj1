@@ -1,0 +1,3 @@
+/Users/bernardxique/JetBrains/CLionProjects/cis161proj1/cmake-build-debug/CMakeFiles/cis161proj1.dir
+/Users/bernardxique/JetBrains/CLionProjects/cis161proj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bernardxique/JetBrains/CLionProjects/cis161proj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
